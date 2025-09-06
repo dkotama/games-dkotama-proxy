@@ -1,4 +1,4 @@
-name = "game-dkotama-proxy"
+name = "games-dkotama-proxy"
 main = "src/index.js"
 compatibility_date = "2025-09-06"
 
